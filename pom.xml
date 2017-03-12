@@ -20,11 +20,7 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>5.1.22</version>
         </dependency>
-        <dependency>
-            <groupId>mysqldb</groupId>
-            <artifactId>mysql-database</artifactId>
-            <version>1.8.0</version>
-        </dependency>
+        
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
